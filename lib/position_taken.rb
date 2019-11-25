@@ -4,7 +4,7 @@ board = [" "]
 def posistion_taken?(board,positon)
   if board[position] == " "
     taken = false
-  else 
+  else
     taken = true
 end
 taken
